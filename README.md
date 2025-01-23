@@ -25,7 +25,6 @@
         <div style="text-align: left;"> 
             
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=young042510)](https://github.com/young042510/github-readme-stats)
-   
     </div> 
     </div>
 
