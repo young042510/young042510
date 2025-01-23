@@ -22,14 +22,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=dd> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=dd"> </a>
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-      <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=a&custom_title=a's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-       
-    
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-      <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=a&custom_title=a's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-       
-</div>
+      
     
 
    
