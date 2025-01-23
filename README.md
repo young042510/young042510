@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=120&text=안녕하세요!%20LeeJae%20입니다&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=120&text=Welcome%20 %20입니다&animation=&fontColor=000000&fontSize=50" />
+    ![Image](https://github.com/user-attachments/assets/1fb94c33-392f-4942-9225-cd4191eff267)    
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
