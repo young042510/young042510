@@ -1,5 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 안녕하세요 </h2>  
+    ![Image](https://github.com/user-attachments/assets/1fb94c33-392f-4942-9225-cd4191eff267)
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
