@@ -19,9 +19,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=120&text=안녕하세요!%20LeeJae%20입니다&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-    ![68A67C73-9831-457F-95FB-C4C59CAB1F07](https://github.com/user-attachments/assets/476106a2-c6c6-465e-8629-10bb227bf02b)
-
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
     </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     <!--자기소개-->
