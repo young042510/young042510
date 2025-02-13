@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 안녕하세요 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 거북목 없는 개발자를 꿈꿉니다 </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
